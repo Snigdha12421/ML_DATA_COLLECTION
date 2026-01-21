@@ -1,4 +1,4 @@
-##**ML_DATA_COLLECTION**
+# **ML_DATA_COLLECTION**
 
 This repository contains simple practice scripts and sample datasets created using three basic data-collection methods commonly used in Machine Learning.
 
